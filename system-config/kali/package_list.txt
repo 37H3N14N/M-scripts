@@ -1,0 +1,11 @@
+sway
+alacritty
+kitty
+waybar
+pauvcontrol
+pulseaudio
+tmux
+caido
+rofi
+mbuffer
+
