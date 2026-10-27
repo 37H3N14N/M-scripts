@@ -2,10 +2,20 @@ sway
 alacritty
 kitty
 waybar
+rofi
+
 pauvcontrol
 pulseaudio
+
 tmux
-caido
-rofi
+xleak
 mbuffer
+docker
+
+
+caido
+brave
+chrome
+
+
 
